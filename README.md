@@ -1,1 +1,1 @@
-# web-celulares
+Web del negocio de reparación de celulares. Proyecto de aprendizaje.
