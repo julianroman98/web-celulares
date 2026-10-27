@@ -92,6 +92,14 @@ nav a {
     .menu-btn {
         display: none;
         display: inline-block;
+        header {
+            position: relative;
+        }
+        nav {
+            position: absolute;
+            top: 12px;
+            right: 12px;
+        }
     }
 }
 #menu {
